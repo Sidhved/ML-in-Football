@@ -3,4 +3,3 @@ Test Repository for ML in Football
 The project consists of 2 parts: 
     1. Analysing Players and Creating Player profile for Skills Development
     2. Creating a predictive model for Penalty Shootouts for specialist players
-#note the error while git pull for adding cup_dict
